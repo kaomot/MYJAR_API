@@ -1,4 +1,4 @@
-CREATE SCHEMA `MyJar_Clients_Data` ;
+CREATE SCHEMA `myjar_clients_data` ;
 
 CREATE TABLE `myjar_clients_data`.`clients`(
   `ID` INT NOT NULL AUTO_INCREMENT ,
