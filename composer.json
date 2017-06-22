@@ -1,0 +1,6 @@
+{
+    "name": "kay/myjar_rest_api",
+    "require": {
+        "giggsey/libphonenumber-for-php": "^8.5"
+    }
+}
