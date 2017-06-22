@@ -20,10 +20,16 @@ Run the API App
 * Make a POST request to the endpoint `http://localhost:8080` with payload
 ```$json
 {
-    "name" : "Kayodee",
-    "lastname": "Omotoyee",
-    "email" : "abcd@xyz.com",
-    "phone" : "7448470319"
+    "firstname" : "Kayode",
+	"lastname": "Omotoye",
+	"email" : "kayodeoomotoye@gmail.com",
+	"phone" : "7448470319",
+	"address" : "Akadeemia Tee 7/2",
+	"Country" : "England",
+	"City" : "Manchester",
+	"gender": "M",
+	"DOB" : "3rd March",
+	"LoanType" : "LongTerm"
 }
 ```
 
