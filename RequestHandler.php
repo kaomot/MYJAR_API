@@ -37,7 +37,7 @@ class RequestHandler
 
         if (count($data) != 10) {
             http_response_code(400);
-            return json_encode(['error' => "error"]);
+            return json_encode(['error' => "Ten fields must be submitted"]);
         }
 
         $email = $data ['email'];
